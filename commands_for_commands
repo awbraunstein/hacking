@@ -1,0 +1,6 @@
+mkdir hacking
+cd hacking
+git init
+touch commands
+git add commands
+git commit -m "added a file"
