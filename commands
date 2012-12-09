@@ -3,3 +3,4 @@ sudo apt-get install build-essential
 curl -L get.rvm.io | bash -s stable --auto
 source .bashrc
 rvm requirements
+rvm install 1.9.3
