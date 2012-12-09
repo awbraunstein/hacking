@@ -4,3 +4,7 @@ curl -L get.rvm.io | bash -s stable --auto
 source .bashrc
 rvm requirements
 rvm install 1.9.3
+which ruby
+ruby -v
+gem install bundler
+gem install sinatra
